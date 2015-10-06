@@ -1,6 +1,6 @@
 {
   "name": "english-day-names",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "zero-based array of English day names, starting with Sunday",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/english-day-names.json",
